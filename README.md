@@ -16,6 +16,7 @@ This project explores and visualizes Netflix content using a dataset from Kaggle
 
 ## 📸 Dashboard Preview
 
+![Dashboard Preview](Img.png)
 
 
 
